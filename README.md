@@ -28,7 +28,7 @@ CNNs on 22,043 soybean plots for maturity classification; 84.9% four-class accur
 
 - **Kim, B.**\*, Blair, S., Jubery, Z., Sarkar, S., Singh, A. (2025). Soybean maturity prediction using two-dimensional contour plots from drone-based time series imagery. *The Plant Phenome Journal*. [doi:10.1002/ppj2.70036](https://doi.org/10.1002/ppj2.70036) — \*co-first author
 - Powadi, A., **Kim, B.**, et al. (2026). Geospatial Multimodal Fusion for Field-Level Yield Prediction. *Under review.*
-- **Kim, B.**, et al. In-season prediction of soybean yield, protein, oil and maturity at plot level from sub-meter satellite imagery for breeding selection. *In preparation (target: Computers and Electronics in Agriculture).*
+- **Kim, B.**, et al. In-season prediction of soybean yield, protein, oil and maturity at plot level from sub-meter satellite imagery for breeding selection. *In preparation*
 
 ## Stack
 
