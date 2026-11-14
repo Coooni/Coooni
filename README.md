@@ -1,4 +1,4 @@
-<img width="191" height="208" alt="image" src="https://github.com/user-attachments/assets/9607d3ba-30fb-480c-a175-487ad73a9ffc" />
+[pathway.pdf](https://github.com/user-attachments/files/34860916/pathway.pdf)
 # Bitgoeul (Chloe) Kim
 
 **PhD Student, Computer Engineering @ Iowa State University** · Computer Vision · Multimodal Foundation Models · Self-Supervised Learning
