@@ -1,4 +1,4 @@
-![Career pathway](pathway.png)
+![Career pathway](career_pathway.png)
 # Bitgoeul (Chloe) Kim
 
 **PhD Student, Computer Engineering @ Iowa State University** · Computer Vision · Multimodal Foundation Models · Self-Supervised Learning
