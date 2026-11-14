@@ -1,6 +1,6 @@
 # Bitgoeul (Chloe) Kim
 
-**PhD Candidate, Computer Engineering @ Iowa State University** · Computer Vision · Multimodal Foundation Models · Self-Supervised Learning
+**PhD Student, Computer Engineering @ Iowa State University** · Computer Vision · Multimodal Foundation Models · Self-Supervised Learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bitgoeul-chloekimb24a6b217)
 [![Email](https://img.shields.io/badge/Email-goeul8604%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:goeul8604@gmail.com)
