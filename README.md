@@ -19,7 +19,7 @@ Conditional diffusion model reconstructing missing Sentinel-1 SAR imagery from S
 Frozen vs. fine-tuned [TerraMind](https://github.com/Coooni/terramind) representations for *field-level* corn yield from Sentinel-1/2 — test R² 0.679 (MAE 12.22 bu/acre) on ~600 fields × 24 weekly bins.
 
 **In-season trait prediction at breeding scale**
-*Plot-level* prediction from sub-meter (0.3 m) commercial satellite imagery + weather, soil, and AlphaEarth embeddings over 56,000+ soybean breeding plots; TabPFN predicts yield (R² 0.70), protein, oil, and maturity (R² 0.77) in-season — culling the bottom 30% of entries by predicted yield loses only 2–3% of the true top 10%. AlphaEarth prior-year embeddings add consistent gains (largest early-season), while per-image vision FM embeddings don't beat simple band statistics.
+*Plot-level* prediction from sub-meter (0.3 m) commercial satellite imagery + weather, soil, and [AlphaEarth](https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/) embeddings over 56,000+ soybean breeding plots; TabPFN predicts yield (R² 0.70), protein, oil, and maturity (R² 0.77) in-season — culling the bottom 30% of entries by predicted yield loses only 2–3% of the true top 10%. AlphaEarth prior-year embeddings add consistent gains (largest early-season), while per-image vision FM embeddings don't beat simple band statistics.
 
 **UAV time-series vision**
 CNNs on 22,043 soybean plots for maturity classification; 84.9% four-class accuracy, and ~same accuracy from 3 of 8 flights.
