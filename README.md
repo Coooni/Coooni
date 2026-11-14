@@ -24,6 +24,10 @@ Frozen vs. fine-tuned [TerraMind](https://github.com/Coooni/terramind) represent
 **UAV time-series vision**
 CNNs on 22,043 soybean plots for maturity classification; 84.9% four-class accuracy, and ~same accuracy from 3 of 8 flights.
 
+## Before the PhD
+
+4+ years as a Software Engineer at Lam Research (semiconductor manufacturing) — built C#/.NET applications and SQL Server databases for factory monitoring and issue tracking, collaborating with teams across Korea, Malaysia, and the U.S. I came to research with production-software habits: versioned pipelines, reproducible experiments, and code other people can run.
+
 ## Publications
 
 - **Kim, B.**\*, Blair, S., Jubery, Z., Sarkar, S., Singh, A. (2025). Soybean maturity prediction using two-dimensional contour plots from drone-based time series imagery. *The Plant Phenome Journal*. [doi:10.1002/ppj2.70036](https://doi.org/10.1002/ppj2.70036) — \*co-first author
