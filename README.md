@@ -9,7 +9,7 @@ I build and adapt vision foundation models for Earth observation — pretraining
 
 ## Research
 
-**CropMAE — multimodal self-supervised pretraining**
+#### CropMAE — multimodal self-supervised pretraining**
 Masked autoencoder pretrained on 8M+ Earth-observation samples (Sentinel-1/2 + weather, soil, elevation; 2017–2024). Multi-GPU PyTorch DDP on Slurm; multi-year, multi-state pretraining beats single-year baselines on held-out 2025 data.
 
 **Cross-modal diffusion inpainting**
